@@ -1,8 +1,8 @@
 # gettingandcleaningdata
 This is for the coursera course
->>>                                                                         <<<
->>> First of all, Hello and thank you for reading this and grading my work. <<<
->>>                                                                         <<<
+                                                                        
+> First of all, Hello and thank you for reading this and grading my work. 
+
 This is the Read.me file for an analysis of the 
 "Human Activity Recognition Using Smartphones Dataset Version 1.0"
 dataset provided by:
@@ -42,11 +42,11 @@ A single dataset with all variables and observations is created by:
   b. Getting the relevant column from the titles dataset.
   c. renaming the variables with their titles from b. using a for loop.
 
->> this dataset is stored as "result"<<
+>> this dataset is stored as "result"
 
 7. Creating a seperate dataset with means and standard deviation for each variable by:
   a. rearanging the dataset from 6. using melt().
   b. creating a new dataset with two new columns for means and standard deviations respectively using ddply.
 
->> this dataset is stored as "measurementssummary"<<
+>> this dataset is stored as "measurementssummary"
 
